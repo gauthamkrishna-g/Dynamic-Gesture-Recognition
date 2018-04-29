@@ -1,6 +1,6 @@
 # Dynamic-Gesture-Recognition
 
-✔ This repository contains code to our research work/publication, ***[A Generic Multi-modal Dynamic Gesture Recognition System using Machine Learning](https://gauthamkrishna-g.github.io/FICC_2018.pdf)*** which is to be presented at the [IEEE Future of Information and Communications Conference (FICC) 2018, Singapore](http://saiconference.com/FICC).
+✔ This repository contains code to our research work/publication, ***[A Generic Multi-modal Dynamic Gesture Recognition System using Machine Learning](https://gauthamkrishna-g.github.io/FICC_2018.pdf)*** which was presented at the [IEEE Future of Information and Communications Conference (FICC) 2018, Singapore](http://saiconference.com/FICC).
 
 ✔ Human Computer Interaction facilitates intelligent communication between humans and computers, in which gesture recognition plays a prominent role. This paper proposes a machine learning system to identify dynamic gestures using tri-axial acceleration data acquired from two public datasets. These datasets - uWave and Sony, were acquired using accelerometers embedded in Wii remotes and smartwatches respectively.
 
